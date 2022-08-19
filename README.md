@@ -1,8 +1,8 @@
-# The Limits of Logic, Fall 2022
+# Information for The Limits of Logic, Fall 2022
 
 Jeff Sanford Russell • <jeff.russell@usc.edu> • [website](https://jsr.droppages.com)
 
--   [Syllabus]()
+-   [Syllabus](https://www.dropbox.com/s/g6emgm8w5v0r29b/syllabus-handout.pdf?dl=0)
 -   [Exercise guide]()
 -   [Textbook]()
 
