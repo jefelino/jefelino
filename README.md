@@ -1,14 +1,6 @@
-# Information for The Limits of Logic, Fall 2022
+Jeff Sanford Russell • <jeff.russell@usc.edu> • [website](https://jefelino.github.io)
 
-Jeff Sanford Russell • <jeff.russell@usc.edu> • [website](https://jsr.droppages.com)
-
--   [Syllabus](https://www.dropbox.com/s/g6emgm8w5v0r29b/syllabus-handout.pdf?dl=0)
--   [Guide to Doing Exercises](https://www.dropbox.com/s/rrfik8ifcnmhauc/exercises-handout.pdf?dl=0)
--   [Textbook](https://www.dropbox.com/s/c5pajem2s6jf0o6/limits-of-logic.pdf?dl=0)
-
--   [Problem presentation sign-up](https://docs.google.com/spreadsheets/d/1P5wg0_PAFmDCQrEbr8XnXFL4_zplhAyWy2oavHuemKM/edit?usp=sharing)
-
-
+The page for the **The Limits of Logic** (Fall 2022) [is now here.](https://jefelino.github.io/logic-450-2022.html)
 
 <!---
 jefelino/jefelino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
